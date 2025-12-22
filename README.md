@@ -1,6 +1,15 @@
 # 💫 About Me:
 👋 Hi, I’m Imad Hussain Khan, a Full Stack Web Developer specializing in MERN Stack & Next.js.<br><br>💼 Currently working as a Full Stack Web Developer at Creative Mark in Riyadh, Saudi Arabia, building scalable dashboards, SaaS applications, and secure backend systems.<br><br>🚀 I focus on writing clean, maintainable code, optimizing performance, and delivering real business value.<br><br>🌱 Always learning. Always building.
 
+## 💼 Portfolio
+🌍 **View My Portfolio:** https://imadkhan.online  
+
+📂 Includes:
+- Real-world production projects  
+- Scalable dashboards & SaaS platforms  
+- Secure backend systems & APIs  
+- Modern UI/UX with performance optimization  
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/imad.hussain.khan.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/imaddeveloper?igsh=bXJ4MXB4bmo2djAy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imad-hussain-khan-76388b305) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@imadhussainkhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/imadhussainkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kimad1728@gmail.com) 
