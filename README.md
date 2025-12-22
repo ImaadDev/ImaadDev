@@ -2,7 +2,7 @@
 👋 Hi, I’m Imad Hussain Khan, a Full Stack Web Developer specializing in MERN Stack & Next.js.<br><br>💼 Currently working as a Full Stack Web Developer at Creative Mark in Riyadh, Saudi Arabia, building scalable dashboards, SaaS applications, and secure backend systems.<br><br>🚀 I focus on writing clean, maintainable code, optimizing performance, and delivering real business value.<br><br>🌱 Always learning. Always building.
 
 ## 💼 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://imadkhan.online)
+[![View Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://imadkhan.online)
  
 
 📂 Includes:
