@@ -1,31 +1,13 @@
 # 💫 About Me:
 👋 Hi, I’m Imad Hussain Khan, a Full Stack Web Developer specializing in MERN Stack & Next.js.<br><br>💼 Currently working as a Full Stack Web Developer at Creative Mark in Riyadh, Saudi Arabia, building scalable dashboards, SaaS applications, and secure backend systems.<br><br>🚀 I focus on writing clean, maintainable code, optimizing performance, and delivering real business value.<br><br>🌱 Always learning. Always building.
 
-# 🚀 Creator of Create Enterprise Backend (NPX CLI)
+# 🚀 Creator of Create Enterprise Backend
 
-👨‍💻 **Author & Maintainer of `npx create-enterprise-backend`** — an enterprise-grade backend scaffolding CLI designed to generate **production-ready backends in seconds**.
+👨‍💻 **Author of `npx create-enterprise-backend`** — an enterprise-grade backend scaffolding CLI that generates **production-ready backends in seconds**.
 
-⚠️ **BETA VERSION (v0.1.2)**  
-This package is currently in beta with limited features.  
-✔️ Full enterprise features are available for **Fastify + Supabase**  
-⚠️ Express support is basic and some advanced features are still in development.
+⚠️ **Beta (v0.1.2)** — Full enterprise features for **Fastify + Supabase**.
 
-### 🧠 What it does
-A powerful CLI that scaffolds **secure, scalable backend architectures** with authentication, JWT, and database integration — instantly.
-
-### ✨ Features
-- ⚡ **Frameworks**: Fastify & Express  
-- 🗄️ **Databases**: MongoDB & Supabase  
-- 🔐 **Authentication**: JWT-based authentication  
-- ♻️ **Refresh Tokens** (Fastify + Supabase only)  
-- 🚪 **Logout** (single device & all devices)  
-- 🛡️ **Role-Based Access Control (RBAC)**  
-- 🧩 **Modular Architecture** (feature-based structure)  
-- 📦 **Auto-registered Routes**  
-- 🔧 **Enterprise-ready Folder Structure**  
-- 💡 **Highly Extensible for future upgrades**
-
-
+✨ **Features**: Fastify & Express · MongoDB & Supabase · JWT Auth · RBAC · Modular Architecture
 
 
 ## 💼 Portfolio
