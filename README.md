@@ -25,9 +25,7 @@ A powerful CLI that scaffolds **secure, scalable backend architectures** with au
 - 🔧 **Enterprise-ready Folder Structure**  
 - 💡 **Highly Extensible for future upgrades**
 
-### 📦 Installation & Usage
-```bash
-npx create-enterprise-backend my-backend
+
 
 
 ## 💼 Portfolio
