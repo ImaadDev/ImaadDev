@@ -17,17 +17,6 @@ Fastify & Express · MongoDB & Supabase · JWT Authentication · RBAC · Modular
 
 ---
 
-## 💼 Portfolio
-[![View Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://imadkhan.online)
-
-📂 Includes:
-- Real-world production projects  
-- Scalable dashboards & SaaS platforms  
-- Secure backend systems & APIs  
-- Modern UI/UX with performance optimization  
-
----
-
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/imad.hussain.khan.2025)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imaddeveloper)
@@ -61,6 +50,18 @@ Fastify & Express · MongoDB & Supabase · JWT Authentication · RBAC · Modular
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+
+## 💼 Portfolio
+[![View Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://imadkhan.online)
+
+📂 Includes:
+- Real-world production projects  
+- Scalable dashboards & SaaS platforms  
+- Secure backend systems & APIs  
+- Modern UI/UX with performance optimization  
 
 ---
 
